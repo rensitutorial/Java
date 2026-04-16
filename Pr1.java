@@ -13,5 +13,5 @@ public class Pr1 {
 
 
 
-output:Enter distance in meters: 10
-Distance in feet: 32.81
+//output:Enter distance in meters: 10
+//Distance in feet: 32.81
