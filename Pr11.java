@@ -36,3 +36,11 @@ public class Pr11 {
         admission.displayDetails();
     }
 }
+
+//output: Enter Student Name: Rency
+//Enter Course: Computer Engineering
+
+//--- Admission Details ---
+//College Name : ABC Engineering College
+//Student Name : Rency
+//Course       : Computer Engineering
